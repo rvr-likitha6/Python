@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Number Guessing Game
+
+@author: Likhitha Rapuri
 """
 
 import random
