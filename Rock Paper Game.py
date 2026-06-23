@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Rock, paper, scissors game
+
+@author: Likitha Rapuri
 """
 import random
 
