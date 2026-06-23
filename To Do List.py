@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """
  To Do List App
+
+ @author: Likitha Rapuri
 """
 
 import os
