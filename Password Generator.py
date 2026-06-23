@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 PASSWORD GENERATOR - makes random passwords based on what you want
+
+@author: Likitha Rapuri
 """
 
 import random
