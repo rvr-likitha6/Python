@@ -2,7 +2,7 @@
 """
 Number Guessing Game
 
-@author: Likhitha Rapuri
+@author: Likitha Rapuri
 """
 
 import random
