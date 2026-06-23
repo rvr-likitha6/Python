@@ -2,7 +2,7 @@
 """
 Variables and Data Types
 
-@author: Likhitha Rapuri
+@author: Likitha Rapuri
 """
 
 # --- integers (whole numbers) ---
