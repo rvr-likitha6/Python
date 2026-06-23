@@ -2,7 +2,7 @@
 """
 Functions and Modules
 
-@author: Likhitha Rapuri
+@author: Likitha Rapuri
 """
 
 # --- basic function ---
