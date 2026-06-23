@@ -2,7 +2,7 @@
 """
 Basic Operators
 
-@author: Likhitha Rapuri
+@author: Likitha Rapuri
 """
 
 # --- arithmetic operators ---
