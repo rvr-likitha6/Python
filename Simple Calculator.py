@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Simple Calculator
+
+@author: Likitha Rapuri
 """
 def add(a, b):
     return a + b
